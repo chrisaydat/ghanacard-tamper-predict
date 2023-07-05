@@ -23,7 +23,7 @@ pip install scikit-image opencv-python imutils requests pillow
 
 1. Clone or download the repository to your local machine.
 
-2. Run the `image_tampering_detection.py` script using Python.
+2. Run the `ghanacardtamper.py` script using Python.
 
 3. The script will perform the following steps:
 
